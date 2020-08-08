@@ -1,0 +1,45 @@
+.programmer {
+  width: 600px;
+  background-color: whitesmoke;
+  margin: 20px auto 0
+}
+
+img {
+  position: relative;
+  top: 5px;
+  left: 100px;
+  bottom: 5px;
+  border-radius: 100%;
+}
+
+h1 {
+  color: green;
+  font-variant: small-caps;
+  font-style: italic;
+  font-size: 36px;
+  font-family: 'Times New Roman';
+  padding: 10px;
+  border-bottom: 2px red solid;
+}
+
+h2 {
+  color: blue;
+  size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  line-height: 20px;
+  text-align: left;
+  text-indent: 50px;
+}
+
+body {
+  background-color: gold;
+  background-image: url(responsive-web-design.png);
+}
+
+.sekian {
+  font-size: 20px;
+  text-align: center;
+}
